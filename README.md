@@ -11,6 +11,11 @@ using a web project.
 
 ## Purpose
 
+As stated above, the main purpose is to
+provide simple examples for Gti training
+
 ## Deployment 
+
+This is another paragraph for tests used by the Git training
 
 ## How to Contribute
